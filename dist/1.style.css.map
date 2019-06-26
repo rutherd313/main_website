@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/styles/experience.css"],"names":[],"mappings":"AAAA;IACI,iBAAiB;CACpB;;AAED;IACI,sBAAsB;CACzB;;AAED","file":"1.style.css","sourcesContent":["#main {\r\n    margin-top: 40px;\r\n}\r\n\r\nul {\r\n    background-color: red;\r\n}\r\n\r\n/* .container-fluid .new-margin-class {\r\n    margin: 50px;\r\n} */"],"sourceRoot":""}

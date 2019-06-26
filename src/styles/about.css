@@ -1,0 +1,28 @@
+.jumbotron {
+    /*background-color: red;*/
+    margin-top: 50px;
+}
+
+/* .diplay_5 {
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+    color: red;
+} */
+
+.display_4 {
+    margin-top: 8%;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    font-size: 100px;
+    font-weight: 800;
+    color: #ECDFDF;
+    text-shadow: 2px 3px #5C4D4D;
+}
+
+.lead {
+    font-size: 20px;
+    font-weight: 900;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #ECDFDF;
+    text-shadow: 2px 3px #5C4D4D;
+}

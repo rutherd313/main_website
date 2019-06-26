@@ -1,0 +1,19 @@
+body {
+    background-image: url("/src/img/architecture.jpg");
+    background-image: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+a {
+    padding: 0 20px 0 20px;
+    color: #ECDFDF;
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #ECDFDF;
+}

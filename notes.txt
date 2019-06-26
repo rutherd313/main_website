@@ -1,0 +1,56 @@
+This is from this article: 
+https://medium.freecodecamp.org/part-1-react-app-from-scratch-using-webpack-4-562b1d231e75
+
+Photo by Miguel Á. Padriñán from Pexels
+
+webpack --progress --config webpack.main --display-modules
+
+//show where module is created from code
+--display-modules --display-reasons 
+
+//displays chunks
+--display-chunks
+
+//map any config from CLI options
+--output-library-target
+
+//performance tool, statistics, chuck, module size, ect
+--profile --json >> stats.json
+
+
+//utulize:
+webpack.optimize.CommonsChunkPlugin
+eslint-loader
+
+//right beneath languages
+ <div className="row">
+                    <div className="col-md-6">
+                        <h2>Control system</h2>
+                        <ul className="list-group">
+                            <li className="list-group-item">Git</li>
+                        </ul>
+                    </div>
+                    <div className="col-md-6">
+                        <h2>Relational database management system (RDBMS)</h2>
+                        <ul className="list-group">
+                            <li className="list-group-item">MySQL</li>
+                        </ul>
+                    </div>
+                </div>
+                <div className="row">
+                    <div className="col-md-6">
+                        <h2>Command language interpreter</h2>
+                        <ul className="list-group">
+                            <li className="list-group-item">Command Line</li>
+                        </ul>
+                    </div>
+                </div>
+
+            // <div class="jumbotron">
+            //     <h1 class="display-4">A little something about me</h1>
+            //         <p class="lead">I've started my journey in programming on 2016 learning front-end development then expanded my curiousity <br/>
+            //         learning Javascript as well as React UI framework.
+            //         </p>
+            //     <hr class="my-4"></hr>
+            //     <p>There is no end in this journey, just plenty of mistakes to learn from to better myself as a developer.</p>
+            // </div>

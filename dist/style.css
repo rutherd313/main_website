@@ -1,0 +1,20 @@
+h1 {
+    margin-top: 8%;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: #000000;
+}
+
+body {
+    text-align: center;
+}
+
+a {
+    padding: 0 20px 0 20px;
+    color: #000000;
+    font-size: 20px;
+    font-family: 'Courier';
+    text-decoration: none;
+}
+
+/*# sourceMappingURL=style.css.map*/
