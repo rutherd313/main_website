@@ -15,18 +15,18 @@ class Experience extends Component {
                     </div>
                     
                     <div class="col-md-6">
-                        <h2>Languages</h2>
-                        <ul class="list-group">
-                            <li class="list-group-item">Javascript</li>
-                            <li class="list-group-item">ReactJS</li>
-                            <li class="list-group-item">Python</li>
+                    <h2>Languages</h2>
+                    <ul class="list-group">
+                    <li class="list-group-item">Javascript</li>
+                    <li class="list-group-item">ReactJS</li>
+                    <li class="list-group-item">Python</li>
                         </ul>
                     </div>
                 </div>
 
                 <div className="row" style={{margin: '10px'}}>
                     <div className="col-md-6">
-                        <h2>Control system</h2>
+                        <h2>Version-control system</h2>
                         <ul className="list-group">
                             <li class="list-group-item">Git</li>
                         </ul>
@@ -34,7 +34,7 @@ class Experience extends Component {
                     <div className="col-md-6">
                         <h2>Relational database management system (RDBMS)</h2>
                         <ul className="list-group">
-                            <li class="list-group-item">MySQL</li>
+                            <li class="list-group-item">MongoDB</li>
                         </ul>
                     </div>
                 </div>

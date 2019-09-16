@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import PizzaImage from '../styles/pizza.jpg';
 import styles from '../styles/about.css';
 
 class About extends Component {
@@ -26,7 +25,7 @@ class About extends Component {
                 <div>
                     <h1 className={styles.display_4}>Get to know me...</h1>
                     <p className={styles.lead}>I've started my journey in programming in 2016 learning front-end development, then <br/> expanded my curiousity 
-                    learning Javascript as well as React UI framework. </p>
+                    learning Javascript with NodeJS and React UI framework. </p>
                     <hr style={{ background: '#ECDFDF', width: '80%' }} class="my-4"></hr>
                     <div class="dropdown">
                         <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -39,10 +38,7 @@ class About extends Component {
                         </div>
                     </div>
                 </div>
-            </div> //jumbotron
-            /* <div>
-                <img src={PizzaImage} /> 
-            </div> */
+            </div> 
         )
     }
 }
